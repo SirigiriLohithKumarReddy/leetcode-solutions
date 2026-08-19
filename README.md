@@ -36,4 +36,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
