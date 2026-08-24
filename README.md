@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0509-fibonacci-number](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -40,4 +41,16 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
