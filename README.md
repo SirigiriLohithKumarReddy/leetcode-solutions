@@ -41,6 +41,7 @@
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0203-remove-linked-list-elements](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0509-fibonacci-number](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
