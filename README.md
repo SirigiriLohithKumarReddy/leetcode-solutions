@@ -40,6 +40,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0203-remove-linked-list-elements](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 ## Dynamic Programming
@@ -58,6 +59,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0344-reverse-string](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0344-reverse-string) |
 ## String
 |  |
