@@ -16,6 +16,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0682-baseball-game](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
@@ -71,9 +72,14 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
