@@ -6,6 +6,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -55,6 +56,7 @@
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
