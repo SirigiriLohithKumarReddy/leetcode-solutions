@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
+| [0231-power-of-two](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -87,4 +89,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0155-min-stack) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
