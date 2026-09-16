@@ -68,11 +68,13 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0344-reverse-string](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
@@ -80,6 +82,7 @@
 | [0020-valid-parentheses](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
@@ -89,6 +92,7 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Design
 |  |
 | ------- |
