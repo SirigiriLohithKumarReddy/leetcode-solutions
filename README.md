@@ -19,6 +19,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0456-132-pattern](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0682-baseball-game](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0704-binary-search) |
 ## Binary Search
@@ -28,6 +29,7 @@
 | [0069-sqrtx](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0374-guess-number-higher-or-lower](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
+| [0456-132-pattern](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0704-binary-search) |
 ## Matrix
 |  |
@@ -82,6 +84,7 @@
 | [0020-valid-parentheses](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0456-132-pattern](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0682-baseball-game](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -108,4 +111,12 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0456-132-pattern) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
