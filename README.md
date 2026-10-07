@@ -22,6 +22,7 @@
 | [0456-132-pattern](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0682-baseball-game](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0704-binary-search) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,6 +91,7 @@
 | [0844-backspace-string-compare](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -100,6 +102,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Design
 |  |
 | ------- |
@@ -114,6 +117,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Monotonic Stack
 |  |
 | ------- |
