@@ -20,6 +20,7 @@
 | [0035-search-insert-position](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0217-contains-duplicate](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0456-132-pattern](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0682-baseball-game](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0704-binary-search) |
@@ -131,8 +132,13 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0217-contains-duplicate) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
