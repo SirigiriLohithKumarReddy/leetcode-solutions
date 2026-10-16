@@ -24,6 +24,7 @@
 | [0217-contains-duplicate](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0456-132-pattern) |
 | [0682-baseball-game](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0704-binary-search) |
@@ -78,6 +79,7 @@
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0344-reverse-string](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0455-assign-cookies](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0844-backspace-string-compare](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## String
 |  |
@@ -144,6 +146,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0455-assign-cookies) |
 ## Sliding Window
 |  |
 | ------- |
@@ -161,4 +164,9 @@
 | ------- |
 | [0045-jump-game-ii](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0055-jump-game) |
+| [0455-assign-cookies](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
