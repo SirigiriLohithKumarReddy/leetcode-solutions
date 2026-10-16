@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0055-jump-game](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0217-contains-duplicate](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
@@ -56,6 +57,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0055-jump-game) |
 | [0509-fibonacci-number](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -152,4 +154,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0229-majority-element-ii) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/SirigiriLohithKumarReddy/leetcode-solutions/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
